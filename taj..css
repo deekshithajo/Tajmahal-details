@@ -1,0 +1,44 @@
+import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    padding: 15px;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin: 15px;
+}
+
+.container-heading {
+    color: blue;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container-view-detail {
+    padding: 16px;
+}
+
+.detailed-view-card-description {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: light;
+
+}
